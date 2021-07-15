@@ -1,1 +1,19 @@
-This is the file that describes this project. 
+Expense Tracker
+
+This project reflects my learning of various concepts of React.
+It serves as the introduction towards my journey in React. 
+
+This specific project covers these topics:
+
+1) React and its components, and how ReactDOM is responsible to show those changes on the web.
+
+2) Props, and how to transfer data between parent to child
+
+3) useState hook and how it is used to manage states in React.
+
+4) Rendering of lists, and lifiting up states
+
+and various other concepts, but these are the main ones.
+
+
+
